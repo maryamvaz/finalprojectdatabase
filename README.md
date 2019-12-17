@@ -5,7 +5,7 @@ User Manual:
 
 1.	This is the login page (http://localhost:8080/login).
 The user could enter already existing account information or they can create a new account by clicking the ‘Register Instead’ link. 
-           
+  ![Login page](pictures/login.PNG)     
 
 
 2.	This is the registration page (http://localhost:8080/registration). 
